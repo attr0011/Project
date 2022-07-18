@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Android Labs</string>
+    <string name="email_address">अपना ईमेल पता दर्ज करें:</string>
+    <string name="Type_Password">अपना पासवर्ड टाइप करें</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="SEND">भेजना</string>
+    <string name="RECEIVE">प्राप्त करना</string>
+    <string name="chat">यहा लिखो</string>
+    <string name="your_profile">आपकी प्रोफ़ाइल</string>
+
+    <string name="name">तुम्हारा  नाम:</string>
+    <string name="Enter_your_name">अपना नाम दर्ज करें</string>
+    <string name="Your_email">तुम्हारा ईमेल:</string>
+    <string name="Enter_email">अपना ईमेल दर्ज करें</string>
+
+    <string name="Your_picture">आपकी तस्वीर</string>
+    <string name="stmt">तस्वीर लेने के लिए ऊपर दिए गए बटन पर क्लिक करें</string>
+    <string name="Go_Chat">चैट पर जाएं</string>
+
+</resources>
