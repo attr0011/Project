@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"student1","l":"Action"},{"p":"student1","l":"ActionDriver"},{"p":"student1","l":"ActionDriver2"},{"p":"student1","l":"AllActionTest"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"student1","l":"OccasionalAction"},{"p":"student1","l":"RareAction"},{"p":"student1","l":"RegularAction"}];updateSearchResults();
